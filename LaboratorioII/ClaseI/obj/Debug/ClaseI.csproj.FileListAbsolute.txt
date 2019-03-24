@@ -1,0 +1,7 @@
+D:\Mariano\Clase01\LaboratorioII\ClaseI\bin\Debug\ClaseI.exe.config
+D:\Mariano\Clase01\LaboratorioII\ClaseI\bin\Debug\ClaseI.exe
+D:\Mariano\Clase01\LaboratorioII\ClaseI\bin\Debug\ClaseI.pdb
+D:\Mariano\Clase01\LaboratorioII\ClaseI\obj\Debug\ClaseI.csprojAssemblyReference.cache
+D:\Mariano\Clase01\LaboratorioII\ClaseI\obj\Debug\ClaseI.csproj.CoreCompileInputs.cache
+D:\Mariano\Clase01\LaboratorioII\ClaseI\obj\Debug\ClaseI.exe
+D:\Mariano\Clase01\LaboratorioII\ClaseI\obj\Debug\ClaseI.pdb

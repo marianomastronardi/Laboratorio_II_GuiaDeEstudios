@@ -1,0 +1,6 @@
+D:\Mariano\Clase01\LaboratorioII\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+D:\Mariano\Clase01\LaboratorioII\Ejercicio04\bin\Debug\Ejercicio04.exe
+D:\Mariano\Clase01\LaboratorioII\Ejercicio04\bin\Debug\Ejercicio04.pdb
+D:\Mariano\Clase01\LaboratorioII\Ejercicio04\obj\Debug\Ejercicio04.csproj.CoreCompileInputs.cache
+D:\Mariano\Clase01\LaboratorioII\Ejercicio04\obj\Debug\Ejercicio04.exe
+D:\Mariano\Clase01\LaboratorioII\Ejercicio04\obj\Debug\Ejercicio04.pdb

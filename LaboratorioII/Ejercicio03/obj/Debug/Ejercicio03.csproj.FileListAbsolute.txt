@@ -1,0 +1,7 @@
+D:\Mariano\Clase01\LaboratorioII\Ejercicio03\bin\Debug\Ejercicio03.exe.config
+D:\Mariano\Clase01\LaboratorioII\Ejercicio03\bin\Debug\Ejercicio03.exe
+D:\Mariano\Clase01\LaboratorioII\Ejercicio03\bin\Debug\Ejercicio03.pdb
+D:\Mariano\Clase01\LaboratorioII\Ejercicio03\obj\Debug\Ejercicio03.csprojAssemblyReference.cache
+D:\Mariano\Clase01\LaboratorioII\Ejercicio03\obj\Debug\Ejercicio03.csproj.CoreCompileInputs.cache
+D:\Mariano\Clase01\LaboratorioII\Ejercicio03\obj\Debug\Ejercicio03.exe
+D:\Mariano\Clase01\LaboratorioII\Ejercicio03\obj\Debug\Ejercicio03.pdb
