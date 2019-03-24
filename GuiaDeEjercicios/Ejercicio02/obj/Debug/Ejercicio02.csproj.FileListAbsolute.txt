@@ -1,0 +1,6 @@
+C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio02\bin\Debug\Ejercicio02.exe
+C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio02\bin\Debug\Ejercicio02.pdb
+C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio02\obj\Debug\Ejercicio02.exe
+C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio02\obj\Debug\Ejercicio02.pdb
