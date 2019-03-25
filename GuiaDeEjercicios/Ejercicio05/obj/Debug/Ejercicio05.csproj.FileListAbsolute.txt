@@ -4,3 +4,9 @@ C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio05\bin\Debug\Ejerc
 C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio05\obj\Debug\Ejercicio05.csproj.CoreCompileInputs.cache
 C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio05\obj\Debug\Ejercicio05.exe
 C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio05\obj\Debug\Ejercicio05.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio05\bin\Debug\Ejercicio05.exe.config
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio05\bin\Debug\Ejercicio05.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio05\bin\Debug\Ejercicio05.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio05\obj\Debug\Ejercicio05.csproj.CoreCompileInputs.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio05\obj\Debug\Ejercicio05.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio05\obj\Debug\Ejercicio05.pdb

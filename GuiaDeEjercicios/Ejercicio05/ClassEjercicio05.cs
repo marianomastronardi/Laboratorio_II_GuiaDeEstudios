@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Ejercicio05
 {
@@ -10,6 +6,7 @@ namespace Ejercicio05
     {
         static void Main(string[] args)
         {
+            //Centro Numerico
             Console.Title = "Ejercicio Nro 05";
             int iInput = 0;
             bool ok = false;
@@ -18,19 +15,19 @@ namespace Ejercicio05
 
             while (!ok)
             {
-                Console.Write("Ingrese un numero: ");
+                Console.WriteLine("Ingrese un numero: ");
                 ok = int.TryParse(Console.ReadLine(), out iInput);
             }
 
 
-            for (int i = 1; i <= iInput; i++)
+            for (int i = 2; i <= iInput; i++)
             {
                 acummenor = 0;
                 acummayor = 0;
 
-                for (int j = 1; acummenor >= acummayor; j++)
+                for (int j = 1; acummenor > acummayor || (acummayor == 0 && acummenor == 0); j++)
                 {
-                    if (j % i == 0)
+                    if (j != i)
                     {
                         if (j < i)
                             acummenor += j;
@@ -38,6 +35,7 @@ namespace Ejercicio05
                             acummayor += j;
                     }
                 }
+
                 if (acummenor == acummayor && acummayor > 0)
                     Console.WriteLine(i);
             }
