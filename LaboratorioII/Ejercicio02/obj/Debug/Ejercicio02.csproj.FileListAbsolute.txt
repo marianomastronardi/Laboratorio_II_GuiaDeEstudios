@@ -1,7 +1,0 @@
-D:\Mariano\Clase01\LaboratorioII\Ejercicio02\bin\Debug\Ejercicio02.exe.config
-D:\Mariano\Clase01\LaboratorioII\Ejercicio02\bin\Debug\Ejercicio02.exe
-D:\Mariano\Clase01\LaboratorioII\Ejercicio02\bin\Debug\Ejercicio02.pdb
-D:\Mariano\Clase01\LaboratorioII\Ejercicio02\obj\Debug\Ejercicio02.csprojAssemblyReference.cache
-D:\Mariano\Clase01\LaboratorioII\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
-D:\Mariano\Clase01\LaboratorioII\Ejercicio02\obj\Debug\Ejercicio02.exe
-D:\Mariano\Clase01\LaboratorioII\Ejercicio02\obj\Debug\Ejercicio02.pdb
