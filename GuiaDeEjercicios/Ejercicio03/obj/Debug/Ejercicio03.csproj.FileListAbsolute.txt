@@ -5,3 +5,10 @@ C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio03\obj\Debug\Ejerc
 C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio03\obj\Debug\Ejercicio03.csproj.CoreCompileInputs.cache
 C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio03\obj\Debug\Ejercicio03.exe
 C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio03\obj\Debug\Ejercicio03.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio03\bin\Debug\Ejercicio03.exe.config
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio03\bin\Debug\Ejercicio03.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio03\bin\Debug\Ejercicio03.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio03\obj\Debug\Ejercicio03.csprojAssemblyReference.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio03\obj\Debug\Ejercicio03.csproj.CoreCompileInputs.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio03\obj\Debug\Ejercicio03.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio03\obj\Debug\Ejercicio03.pdb
