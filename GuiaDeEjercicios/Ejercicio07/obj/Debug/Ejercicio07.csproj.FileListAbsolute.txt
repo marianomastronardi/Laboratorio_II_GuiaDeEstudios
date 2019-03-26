@@ -1,0 +1,6 @@
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio07\bin\Debug\Ejercicio07.exe.config
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio07\bin\Debug\Ejercicio07.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio07\bin\Debug\Ejercicio07.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio07\obj\Debug\Ejercicio07.csproj.CoreCompileInputs.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio07\obj\Debug\Ejercicio07.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio07\obj\Debug\Ejercicio07.pdb
