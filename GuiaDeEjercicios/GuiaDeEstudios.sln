@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaGeometria", "PruebaGe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio19", "Ejercicio19\Ejercicio19.csproj", "{9AB00F55-6B41-461F-A027-1DD682C979DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio20", "Ejercicio20\Ejercicio20.csproj", "{56309D5E-6370-4704-B3A9-D8CAE3C47CA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billetes", "Billetes\Billetes.csproj", "{CCF2E3A1-BF56-42C8-9336-D21874B7C5AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{9AB00F55-6B41-461F-A027-1DD682C979DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AB00F55-6B41-461F-A027-1DD682C979DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AB00F55-6B41-461F-A027-1DD682C979DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56309D5E-6370-4704-B3A9-D8CAE3C47CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56309D5E-6370-4704-B3A9-D8CAE3C47CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56309D5E-6370-4704-B3A9-D8CAE3C47CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56309D5E-6370-4704-B3A9-D8CAE3C47CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF2E3A1-BF56-42C8-9336-D21874B7C5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF2E3A1-BF56-42C8-9336-D21874B7C5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF2E3A1-BF56-42C8-9336-D21874B7C5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF2E3A1-BF56-42C8-9336-D21874B7C5AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
