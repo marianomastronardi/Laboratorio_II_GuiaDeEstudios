@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Geometria\Geometria.csproj">
-      <Project>{08f9e14a-a16d-4a70-af07-c933f9a8828a}</Project>
+      <Project>{4288248f-2676-45da-8231-ea173c82847a}</Project>
       <Name>Geometria</Name>
     </ProjectReference>
   </ItemGroup>

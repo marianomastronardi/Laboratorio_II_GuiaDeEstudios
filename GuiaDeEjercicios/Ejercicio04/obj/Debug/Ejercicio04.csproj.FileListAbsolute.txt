@@ -5,3 +5,9 @@ C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio04\obj\Debug\Ejerc
 C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio04\obj\Debug\Ejercicio04.csproj.CoreCompileInputs.cache
 C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio04\obj\Debug\Ejercicio04.exe
 C:\Users\mgmastronardi\source\repos\GuiaDeEjercicios\Ejercicio04\obj\Debug\Ejercicio04.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio04\bin\Debug\Ejercicio04.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio04\bin\Debug\Ejercicio04.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio04\obj\Debug\Ejercicio04.csproj.CoreCompileInputs.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio04\obj\Debug\Ejercicio04.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio04\obj\Debug\Ejercicio04.pdb

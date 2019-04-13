@@ -5,3 +5,9 @@ D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\Gui
 D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio08\obj\Debug\Ejercicio08.csproj.CoreCompileInputs.cache
 D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio08\obj\Debug\Ejercicio08.exe
 D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\LaboratorioII_Class-master\GuiaDeEjercicios\Ejercicio08\obj\Debug\Ejercicio08.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio08\bin\Debug\Ejercicio08.exe.config
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio08\bin\Debug\Ejercicio08.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio08\bin\Debug\Ejercicio08.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio08\obj\Debug\Ejercicio08.csproj.CoreCompileInputs.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio08\obj\Debug\Ejercicio08.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio08\obj\Debug\Ejercicio08.pdb
