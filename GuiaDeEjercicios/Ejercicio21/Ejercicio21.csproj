@@ -4,13 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{56309D5E-6370-4704-B3A9-D8CAE3C47CA1}</ProjectGuid>
+    <ProjectGuid>{CF22CE54-320A-4F0F-8CF1-987FA288E35C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ejercicio20</RootNamespace>
-    <AssemblyName>Ejercicio20</AssemblyName>
+    <RootNamespace>Ejercicio21</RootNamespace>
+    <AssemblyName>Ejercicio21</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -42,16 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="ClassEjercicio21.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Billetes\Billetes.csproj">
-      <Project>{ccf2e3a1-bf56-42c8-9336-d21874b7c5af}</Project>
-      <Name>Billetes</Name>
+    <ProjectReference Include="..\Grados\Grados.csproj">
+      <Project>{db683545-155a-483b-b94c-75afbbb36559}</Project>
+      <Name>Grados</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
