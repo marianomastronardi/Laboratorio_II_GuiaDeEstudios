@@ -62,5 +62,76 @@ namespace Grados
         {
             return this.FahrenheitToKelvin;
         }
+
+        public static explicit operator Celsius(Fahrenheit f)
+        {
+            return new Celsius(f.GetFahrenheitToCelsius());
+        }
+
+        public static explicit operator Kelvin(Fahrenheit f)
+        {
+            return new Kelvin(f.GetFahrenheitToKelvin());
+        }
+
+        public static implicit operator Fahrenheit(double d)
+        {
+            return new Fahrenheit(d);
+        }
+
+        //bool operator !=
+        public static bool operator !=(Fahrenheit f, Celsius c)
+        {
+            return (f.GetFahrenheitToCelsius() == c.GetGradosCelsius());
+        }
+
+        public static bool operator !=(Fahrenheit f, Kelvin k)
+        {
+            return (f.GetFahrenheitToKelvin() == k.GetGradosKelvin());
+        }
+
+        public static bool operator !=(Fahrenheit f1, Fahrenheit f2)
+        {
+            return (f1.GetGradosFahrenheit() == f2.GetGradosFahrenheit());
+        }
+
+        //Fahrenheit operator -(Fahrenheit f, Celsius c)
+        public static Fahrenheit operator -(Fahrenheit f, Celsius c)
+        {
+            return new Fahrenheit(f.GetGradosFahrenheit() - c.GetCelsiusToFahrenheit());
+        }
+
+        //Fahrenheit operator -(Fahrenheit f, Kelvin k)
+        public static Fahrenheit operator -(Fahrenheit f, Kelvin k)
+        {
+            return new Fahrenheit(f.GetGradosFahrenheit() - k.GetKelvinToFahrenheit());
+        }
+
+        //Fahrenheit operator +(Fahrenheit f, Celsius c)
+        public static Fahrenheit operator +(Fahrenheit f, Celsius c)
+        {
+            return new Fahrenheit(f.GetGradosFahrenheit() + c.GetCelsiusToFahrenheit());
+        }
+
+        //Fahrenheit operator +(Fahrenheit f, Kelvin k)
+        public static Fahrenheit operator +(Fahrenheit f, Kelvin k)
+        {
+            return new Fahrenheit(f.GetGradosFahrenheit() + k.GetKelvinToFahrenheit());
+        }
+
+        //bool operator ==
+        public static bool operator ==(Fahrenheit f, Celsius c)
+        {
+            return (f.GetFahrenheitToCelsius() == c.GetGradosCelsius());
+        }
+
+        public static bool operator ==(Fahrenheit f, Kelvin k)
+        {
+            return (f.GetFahrenheitToKelvin() == k.GetGradosKelvin());
+        }
+
+        public static bool operator ==(Fahrenheit f1, Fahrenheit f2)
+        {
+            return (f1.GetGradosFahrenheit() == f2.GetGradosFahrenheit());
+        }
     }
 }

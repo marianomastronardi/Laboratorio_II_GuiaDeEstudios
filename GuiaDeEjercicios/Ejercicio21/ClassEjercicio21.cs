@@ -14,7 +14,7 @@ namespace Ejercicio21
             //Celsius
             Console.WriteLine("Declaro Celsius de 30º");
             Celsius c30 = new Celsius(30);
-            Console.WriteLine("Celsius To Fahreinheit: " + c30.GetFahrenheitToCelsius());
+            Console.WriteLine("Celsius To Fahreinheit: " + c30.GetCelsiusToFahrenheit());
 
 
             Console.ReadKey();
