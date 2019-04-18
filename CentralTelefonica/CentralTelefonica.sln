@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaHerencia", "CentralitaHerencia\CentralitaHerencia.csproj", "{46CFCB99-691D-4439-93D0-DCABDA51B9EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telecom", "Telecom\Telecom.csproj", "{52C4D20F-D5DF-4B5E-9673-F3C2B77AACEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46CFCB99-691D-4439-93D0-DCABDA51B9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CFCB99-691D-4439-93D0-DCABDA51B9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CFCB99-691D-4439-93D0-DCABDA51B9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CFCB99-691D-4439-93D0-DCABDA51B9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C4D20F-D5DF-4B5E-9673-F3C2B77AACEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C4D20F-D5DF-4B5E-9673-F3C2B77AACEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C4D20F-D5DF-4B5E-9673-F3C2B77AACEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C4D20F-D5DF-4B5E-9673-F3C2B77AACEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBD28D77-BCD5-4E09-B680-961DF0AC73B2}
+	EndGlobalSection
+EndGlobal
