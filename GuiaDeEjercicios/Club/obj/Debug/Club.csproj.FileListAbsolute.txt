@@ -4,3 +4,9 @@ C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Club\obj\
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Club\obj\Debug\Club.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Club\obj\Debug\Club.dll
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Club\obj\Debug\Club.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Club\bin\Debug\Club.dll
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Club\bin\Debug\Club.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Club\obj\Debug\Club.csprojAssemblyReference.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Club\obj\Debug\Club.csproj.CoreCompileInputs.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Club\obj\Debug\Club.dll
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Club\obj\Debug\Club.pdb

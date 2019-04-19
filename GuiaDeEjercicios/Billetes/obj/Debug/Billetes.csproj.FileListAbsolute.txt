@@ -9,3 +9,4 @@ C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Billetes\
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Billetes\obj\Debug\Billetes.dll
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Billetes\obj\Debug\Billetes.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Billetes\obj\Debug\Billetes.csprojAssemblyReference.cache

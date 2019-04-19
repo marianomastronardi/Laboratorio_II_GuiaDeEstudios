@@ -1,3 +1,5 @@
+using System;
+
 namespace Billetes
 {
     public class Pesos
@@ -28,12 +30,12 @@ namespace Billetes
 
         public static explicit operator Euro(Pesos p)
         {
-            return new Euro((p.cantidad * Pesos.GetCotizacion()) / Euro.GetCotizacion());
+            return new Euro((p.cantidad / Pesos.GetCotizacion()) / Euro.GetCotizacion());
         }
 
         public double GetCantidad()
         {
-            return cantidad;
+            return Math.Round(this.cantidad, 2);
         }
 
         public static float GetCotizacion()

@@ -8,3 +8,13 @@ C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio31\obj\Debug\Ejercicio31.csproj.CopyComplete
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio31\obj\Debug\Ejercicio31.exe
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio31\obj\Debug\Ejercicio31.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio31\bin\Debug\Ejercicio31.exe.config
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio31\bin\Debug\Ejercicio31.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio31\bin\Debug\Ejercicio31.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio31\bin\Debug\AtencionAlCliente.dll
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio31\bin\Debug\AtencionAlCliente.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio31\obj\Debug\Ejercicio31.csprojAssemblyReference.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio31\obj\Debug\Ejercicio31.csproj.CoreCompileInputs.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio31\obj\Debug\Ejercicio31.csproj.CopyComplete
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio31\obj\Debug\Ejercicio31.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio31\obj\Debug\Ejercicio31.pdb

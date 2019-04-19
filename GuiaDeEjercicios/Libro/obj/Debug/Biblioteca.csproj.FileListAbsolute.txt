@@ -3,3 +3,8 @@ C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Libro\bin
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Libro\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Libro\obj\Debug\Libro.dll
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Libro\obj\Debug\Libro.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Libro\bin\Debug\Libro.dll
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Libro\bin\Debug\Libro.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Libro\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Libro\obj\Debug\Libro.dll
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Libro\obj\Debug\Libro.pdb

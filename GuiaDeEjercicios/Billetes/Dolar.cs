@@ -1,3 +1,5 @@
+using System;
+
 namespace Billetes
 {
     public class Dolar
@@ -32,7 +34,7 @@ namespace Billetes
 
         public double GetCantidad()
         {
-            return this.cantidad;
+            return Math.Round(this.cantidad, 2);
         }
 
         public static float GetCotizacion()

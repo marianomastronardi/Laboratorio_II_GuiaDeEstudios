@@ -1,0 +1,13 @@
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio23\bin\Debug\Ejercicio23.exe.config
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio23\bin\Debug\Ejercicio23.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio23\bin\Debug\Ejercicio23.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio23\bin\Debug\Billetes.dll
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio23\bin\Debug\Billetes.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio23\obj\Debug\Ejercicio23.csprojAssemblyReference.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio23\obj\Debug\Ejercicio23.frmConversorDinero.resources
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio23\obj\Debug\Ejercicio23.Properties.Resources.resources
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio23\obj\Debug\Ejercicio23.csproj.GenerateResource.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio23\obj\Debug\Ejercicio23.csproj.CoreCompileInputs.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio23\obj\Debug\Ejercicio23.csproj.CopyComplete
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio23\obj\Debug\Ejercicio23.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio23\obj\Debug\Ejercicio23.pdb
