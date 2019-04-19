@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaHerencia", "Centr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telecom", "Telecom\Telecom.csproj", "{52C4D20F-D5DF-4B5E-9673-F3C2B77AACEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{ED31EBBF-7F8E-4754-A990-041DB452CD3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{52C4D20F-D5DF-4B5E-9673-F3C2B77AACEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52C4D20F-D5DF-4B5E-9673-F3C2B77AACEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52C4D20F-D5DF-4B5E-9673-F3C2B77AACEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED31EBBF-7F8E-4754-A990-041DB452CD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED31EBBF-7F8E-4754-A990-041DB452CD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED31EBBF-7F8E-4754-A990-041DB452CD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED31EBBF-7F8E-4754-A990-041DB452CD3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

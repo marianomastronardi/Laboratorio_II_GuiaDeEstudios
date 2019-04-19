@@ -1,0 +1,10 @@
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Test\bin\Debug\Test.exe.config
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Test\bin\Debug\Test.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Test\bin\Debug\Test.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Test\bin\Debug\Telecom.dll
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Test\bin\Debug\Telecom.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Test\obj\Debug\Test.csproj.CopyComplete
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Test\obj\Debug\Test.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Test\obj\Debug\Test.pdb

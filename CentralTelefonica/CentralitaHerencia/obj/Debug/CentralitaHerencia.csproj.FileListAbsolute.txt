@@ -1,0 +1,7 @@
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
