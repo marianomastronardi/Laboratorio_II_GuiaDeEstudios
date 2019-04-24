@@ -4,3 +4,9 @@ D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\
 D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Telecom\bin\Debug\Telecom.pdb
 D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Telecom\obj\Debug\Telecom.dll
 D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Telecom\obj\Debug\Telecom.pdb
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Telecom\bin\Debug\Telecom.dll
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Telecom\bin\Debug\Telecom.pdb
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Telecom\obj\Debug\Telecom.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Telecom\obj\Debug\Telecom.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Telecom\obj\Debug\Telecom.dll
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\CentralTelefonica\Telecom\obj\Debug\Telecom.pdb

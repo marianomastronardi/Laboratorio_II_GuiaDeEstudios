@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio38\bin\Debug\Ejercicio38.exe.config
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio38\bin\Debug\Ejercicio38.exe
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio38\bin\Debug\Ejercicio38.pdb
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio38\bin\Debug\Sobreescrito.dll
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio38\bin\Debug\Sobreescrito.pdb
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio38\obj\Debug\Ejercicio38.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio38\obj\Debug\Ejercicio38.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio38\obj\Debug\Ejercicio38.csproj.CopyComplete
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio38\obj\Debug\Ejercicio38.exe
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio38\obj\Debug\Ejercicio38.pdb

@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Sobreescrito\bin\Debug\Sobreescrito.dll
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Sobreescrito\bin\Debug\Sobreescrito.pdb
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Sobreescrito\obj\Debug\Sobreescritura.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Sobreescrito\obj\Debug\Sobreescritura.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Sobreescrito\obj\Debug\Sobreescrito.dll
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Sobreescrito\obj\Debug\Sobreescrito.pdb
