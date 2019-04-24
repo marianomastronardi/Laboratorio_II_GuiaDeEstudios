@@ -35,7 +35,7 @@ namespace Telecom
       sb.Append("Duracion: " + this.duracion + "\n");
       sb.Append("Nro Origen: " + this.nroOrigen + "\n");
       sb.Append("Nro Destino: " + this.nroDestino + "\n");
-      sb.Append("Costo Llamada: " + this.CostoLlamada + "\n");
+      //sb.Append("Costo Llamada: " + this.CostoLlamada + "\n");
 
       return sb.ToString();
     }

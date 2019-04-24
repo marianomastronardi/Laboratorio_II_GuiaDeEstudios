@@ -26,7 +26,54 @@ namespace Telecom
       this.razonSocial = nombreEmpresa;
     }
 
+    public static bool operator ==(Centralita c, Llamada llamada)
+    {
+      bool r = false;
+
+      if (c.Llamadas.Count == 0)
+        r = !r;
+      else
+        foreach (Llamada l in c.Llamadas)
+      {
+        if(l == llamada)
+        {
+          r = !r;
+          break;
+        }
+      }
+      return r;
+    }
+
+    public static bool operator !=(Centralita c, Llamada llamada)
+    {
+      bool r = false;
+      if (c.Llamadas.Count == 0)
+        r = !r;
+      else
+      foreach (Llamada l in c.Llamadas)
+      {
+        if (l == llamada)
+        {
+          r = !r;
+          break;
+        }
+      }
+      return r;
+    }
+
+    public static Centralita operator +(Centralita c, Llamada llamada)
+    {
+      if(c != llamada)
+        c.AgregarLlamada(llamada);
+      return c;
+    }
+
     private string Mostrar()
+    {
+      return this.ToString();
+    }
+
+    public override string ToString()
     {
       StringBuilder sb = new StringBuilder();
 
@@ -41,11 +88,6 @@ namespace Telecom
       }
 
       return sb.ToString();
-    }
-
-    public override string ToString()
-    {
-      return this.Mostrar();
     }
 
     private float CalcularGanancia(Llamada.TipoLlamada tipo)
@@ -78,7 +120,12 @@ namespace Telecom
 
     public void OrdenarLlamadas()
     {
+      this.Llamadas.Sort();
+    }
 
+    private void AgregarLlamada(Llamada llamadaNueva)
+    {
+      this.listaDeLlamdas.Add(llamadaNueva);
     }
   }
 }

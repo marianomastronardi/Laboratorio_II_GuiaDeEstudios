@@ -27,7 +27,7 @@ namespace Telecom
 
     public override bool Equals(object obj)
     {
-      return obj is Provincial;
+      return (this.GetType() == obj.GetType());
     }
 
     public override string ToString()
@@ -61,8 +61,8 @@ namespace Telecom
     {
       StringBuilder sb = new StringBuilder(base.Mostrar());
 
-      sb.Append("Costo Llamada: " + this.CostoLlamada + "\n");
       sb.Append("Franja Horaria: " + this.franjaHoraria + "\n");
+      sb.Append("Costo Llamada: " + this.CostoLlamada + "\n");
 
       return sb.ToString();
     }

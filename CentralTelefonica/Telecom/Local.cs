@@ -31,7 +31,7 @@ namespace Telecom
     protected string Mostrar()
     {
       StringBuilder sb = new StringBuilder(base.Mostrar());
-      sb.Append("Costo: " + this.costo + "\n");
+      sb.Append("Costo: " + this.CostoLlamada + "\n");
 
       return sb.ToString();
     }
