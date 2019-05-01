@@ -1,0 +1,13 @@
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\PrimerParcial_TP\GarciaMastronardi.Mariano\VistaForm\bin\Debug\VistaForm.exe.config
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\PrimerParcial_TP\GarciaMastronardi.Mariano\VistaForm\bin\Debug\VistaForm.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\PrimerParcial_TP\GarciaMastronardi.Mariano\VistaForm\bin\Debug\VistaForm.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\PrimerParcial_TP\GarciaMastronardi.Mariano\VistaForm\bin\Debug\Entidades.dll
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\PrimerParcial_TP\GarciaMastronardi.Mariano\VistaForm\bin\Debug\Entidades.pdb
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\PrimerParcial_TP\GarciaMastronardi.Mariano\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\PrimerParcial_TP\GarciaMastronardi.Mariano\VistaForm\obj\Debug\VistaForm.FormDT.resources
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\PrimerParcial_TP\GarciaMastronardi.Mariano\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\PrimerParcial_TP\GarciaMastronardi.Mariano\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\PrimerParcial_TP\GarciaMastronardi.Mariano\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\PrimerParcial_TP\GarciaMastronardi.Mariano\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\PrimerParcial_TP\GarciaMastronardi.Mariano\VistaForm\obj\Debug\VistaForm.exe
+D:\UTN FRA\1º Año\2doCuatrimestre\LaboratorioII\Laboratorio_II_GuiaDeEstudios\PrimerParcial_TP\GarciaMastronardi.Mariano\VistaForm\obj\Debug\VistaForm.pdb
