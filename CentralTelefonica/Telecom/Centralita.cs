@@ -63,8 +63,10 @@ namespace Telecom
 
     public static Centralita operator +(Centralita c, Llamada llamada)
     {
-      if(c != llamada)
+      if (c != llamada)
         c.AgregarLlamada(llamada);
+      else
+        throw new CentralitaException("No se puede agregar la llamada porque ya existe","Centralita", "+");
       return c;
     }
 

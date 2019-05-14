@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\ExceptionManager\bin\Debug\ExceptionManager.dll
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\ExceptionManager\bin\Debug\ExceptionManager.pdb
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\ExceptionManager\obj\Debug\ExceptionManager.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\ExceptionManager\obj\Debug\ExceptionManager.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\ExceptionManager\obj\Debug\ExceptionManager.dll
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\ExceptionManager\obj\Debug\ExceptionManager.pdb
