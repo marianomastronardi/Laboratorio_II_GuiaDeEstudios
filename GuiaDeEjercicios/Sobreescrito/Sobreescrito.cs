@@ -17,7 +17,7 @@ namespace Sobreescritura
       this.miAtributo = "Probar abstractos";
     }
 
-    public virtual string ToString()
+    public override string ToString()
     {
       return "¡Este es mi método ToString sobreescrito!";
     }

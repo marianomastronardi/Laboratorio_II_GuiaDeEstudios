@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CallerException.cs" />
+    <Compile Include="CompetenciaNoDsiponibleException.cs" />
     <Compile Include="MathsExceptionClass.cs" />
     <Compile Include="MiException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

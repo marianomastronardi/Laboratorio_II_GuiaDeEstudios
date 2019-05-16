@@ -43,7 +43,15 @@
   <ItemGroup>
     <Compile Include="AutoF1.cs" />
     <Compile Include="Competencia.cs" />
+    <Compile Include="MotoCross.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VehiculoDeCarrera.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ExceptionManager\ExceptionManager.csproj">
+      <Project>{eb4cdbfb-9d9b-4998-b8b7-3e4222c09007}</Project>
+      <Name>ExceptionManager</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
