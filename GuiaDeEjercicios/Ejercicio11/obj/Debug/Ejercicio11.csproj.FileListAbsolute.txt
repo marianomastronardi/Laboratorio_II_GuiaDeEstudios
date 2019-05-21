@@ -16,3 +16,4 @@ C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio11\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio11\obj\Debug\Ejercicio11.exe
 C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio11\obj\Debug\Ejercicio11.pdb
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Ejercicio11\obj\Debug\Ejercicio11.csprojAssemblyReference.cache

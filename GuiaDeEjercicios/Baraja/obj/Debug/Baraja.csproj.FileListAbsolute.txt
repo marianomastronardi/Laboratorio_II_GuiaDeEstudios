@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Baraja\bin\Debug\Baraja.dll
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Baraja\bin\Debug\Baraja.pdb
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Baraja\obj\Debug\Baraja.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Baraja\obj\Debug\Baraja.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Baraja\obj\Debug\Baraja.dll
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Baraja\obj\Debug\Baraja.pdb

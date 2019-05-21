@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Competencia\bin\Debug\Competencia.dll
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Competencia\bin\Debug\Competencia.pdb
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Competencia\obj\Debug\Competencia.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Competencia\obj\Debug\Competencia.dll
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\GuiaDeEjercicios\Competencia\obj\Debug\Competencia.pdb
