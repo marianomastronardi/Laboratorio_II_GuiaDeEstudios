@@ -30,8 +30,16 @@ namespace Ejercicio47
       ligaNacional = ligaNacional + VillaMitre;
       ligaNacional = ligaNacional + Quilmes;
 
+      //Muestro los equipos
       Console.WriteLine(superLiga.Mostrar());
 
+      //Muestro el resultado de un partido de Futbol
+      Console.WriteLine(superLiga.JugarPartido());
+
+      //Muestro el resultado de un partido de Basquet
+      Console.WriteLine(ligaNacional.JugarPartido());
+
+      Console.Read();
     }
   }
 }

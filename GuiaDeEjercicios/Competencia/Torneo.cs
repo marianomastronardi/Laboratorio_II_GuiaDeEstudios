@@ -6,10 +6,20 @@ using System.Threading.Tasks;
 
 namespace Competencia
 {
-    public class Torneo<T> where T : Equipo
-    {
+  public class Torneo<T> where T : Equipo
+  {
     private List<T> equipos;
     private string nombre;
+
+    public Torneo()
+    {
+      this.equipos = new List<T>();
+    }
+
+    public Torneo(string nombre) : this()
+    {
+      this.nombre = nombre;
+    }
 
     public string JugarPartido()
     {
@@ -22,6 +32,8 @@ namespace Competencia
 
     public static bool operator ==(Torneo<T> t, T e)
     {
+      if (t.equipos is null)
+        return false;
       return t.equipos.Contains(e);
     }
 
@@ -45,7 +57,7 @@ namespace Competencia
       StringBuilder sb = new StringBuilder();
       sb.AppendLine(this.nombre);
 
-      foreach(T e in this.equipos)
+      foreach (T e in this.equipos)
       {
         sb.AppendLine(e.Ficha());
       }

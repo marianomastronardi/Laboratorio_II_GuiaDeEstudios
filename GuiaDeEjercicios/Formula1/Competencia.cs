@@ -5,7 +5,7 @@ using ExceptionManager;
 
 namespace Formula1
 {
-  public class Competencia
+  public class Competencia<T> where T : VehiculoDeCarrera
   {
     public enum TipoCompetencia
     {
@@ -15,7 +15,7 @@ namespace Formula1
 
     private short cantidadCompetidores;
     private short cantidadVueltas;
-    private List<VehiculoDeCarrera> competidores;
+    private List<T> competidores;
     private TipoCompetencia tipo;
 
     public short CantidadCompetidores { get { return this.cantidadCompetidores; } set { this.cantidadCompetidores = value; } }
@@ -29,7 +29,7 @@ namespace Formula1
 
     private Competencia()
     {
-      this.competidores = new List<VehiculoDeCarrera>();
+      this.competidores = new List<T>();
     }
 
     public Competencia(short cantidadVueltas, short cantidadCompetidores, TipoCompetencia tipo) : this()
@@ -45,7 +45,7 @@ namespace Formula1
 
       sb.Append("Caantidad Competidores: " + this.cantidadCompetidores + "\n");
       sb.Append("Caantidad Vueltas: " + this.cantidadVueltas + "\n");
-      foreach (AutoF1 a in this.competidores)
+      foreach (T a in this.competidores)
       {
         sb.Append("    " + a.MostrarDatos() + "\n");
       }
@@ -53,7 +53,7 @@ namespace Formula1
       return sb.ToString();
     }
 
-    public static bool operator +(Competencia c, AutoF1 a)
+    public static bool operator +(Competencia<T> c, T a)
     {
       bool canAdd = false;
       try
@@ -84,7 +84,7 @@ namespace Formula1
       return canAdd;
     }
 
-    public static bool operator -(Competencia c, AutoF1 a)
+    public static bool operator -(Competencia<T> c, T a)
     {
       bool canOut = false;
 
@@ -103,7 +103,7 @@ namespace Formula1
       return canOut;
     }
 
-    public static bool operator ==(Competencia c, VehiculoDeCarrera v)
+    public static bool operator ==(Competencia<T> c, T v)
     {
       if((c.Tipo == TipoCompetencia.F1 && v is MotoCross) || (c.Tipo == TipoCompetencia.MotoCross && v is AutoF1))
         throw new CompetenciaNoDisponibleException("El vehículo no corresponde a la competencia", "Competencia", "==");
@@ -111,7 +111,7 @@ namespace Formula1
       return  c.competidores.Contains(v);
      }
 
-    public static bool operator !=(Competencia c, VehiculoDeCarrera v)
+    public static bool operator !=(Competencia<T> c, T v)
     {
       return !(c == v);
     }

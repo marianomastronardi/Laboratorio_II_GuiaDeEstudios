@@ -20,7 +20,7 @@ namespace Ejercicio30
       AutoF1 a3 = new AutoF1(3, "Mercedes");
       AutoF1 a4 = new AutoF1(4, "Red Bull");
 
-      Competencia c = new Competencia(31, 3, Competencia.TipoCompetencia.F1);
+      Competencia<VehiculoDeCarrera> c = new Competencia<VehiculoDeCarrera>(31, 3, Competencia<VehiculoDeCarrera>.TipoCompetencia.F1);
 
       try
       {
