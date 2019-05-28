@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\Clase19\wfABMPersona\bin\Debug\wfABMPersona.exe.config
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\Clase19\wfABMPersona\bin\Debug\wfABMPersona.exe
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\Clase19\wfABMPersona\bin\Debug\wfABMPersona.pdb
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\Clase19\wfABMPersona\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\Clase19\wfABMPersona\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\Clase19\wfABMPersona\obj\Debug\wfABMPersona.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\Clase19\wfABMPersona\obj\Debug\wfABMPersona.wfAltaPersona.resources
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\Clase19\wfABMPersona\obj\Debug\wfABMPersona.wfListPersona.resources
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\Clase19\wfABMPersona\obj\Debug\wfABMPersona.Properties.Resources.resources
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\Clase19\wfABMPersona\obj\Debug\wfABMPersona.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\Clase19\wfABMPersona\obj\Debug\wfABMPersona.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\Clase19\wfABMPersona\obj\Debug\wfABMPersona.csproj.CopyComplete
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\Clase19\wfABMPersona\obj\Debug\wfABMPersona.exe
+C:\Users\alumno\Desktop\Laboratorio_II_GuiaDeEstudios\Clase19\wfABMPersona\obj\Debug\wfABMPersona.pdb
