@@ -1,0 +1,36 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Controles\bin\Debug\Controles.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Controles\bin\Debug\Controles.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Controles\obj\Debug\Controles.csprojAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Controles\obj\Debug\Controles.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Controles\obj\Debug\Controles.Vuelo.resources
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Controles\obj\Debug\Controles.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Controles\obj\Debug\Controles.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Controles\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Controles\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Controles\obj\Debug\Controles.csproj.CopyComplete
+D:\20190711 - Final y RSP para alumno\Alumno\Controles\bin\Debug\Controles.dll
+D:\20190711 - Final y RSP para alumno\Alumno\Controles\bin\Debug\Controles.pdb
+D:\20190711 - Final y RSP para alumno\Alumno\Controles\bin\Debug\Entidades.dll
+D:\20190711 - Final y RSP para alumno\Alumno\Controles\bin\Debug\Entidades.pdb
+D:\20190711 - Final y RSP para alumno\Alumno\Controles\obj\Debug\Controles.csprojAssemblyReference.cache
+D:\20190711 - Final y RSP para alumno\Alumno\Controles\obj\Debug\Controles.Properties.Resources.resources
+D:\20190711 - Final y RSP para alumno\Alumno\Controles\obj\Debug\Controles.Vuelo.resources
+D:\20190711 - Final y RSP para alumno\Alumno\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+D:\20190711 - Final y RSP para alumno\Alumno\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+D:\20190711 - Final y RSP para alumno\Alumno\Controles\obj\Debug\Controles.csproj.CopyComplete
+D:\20190711 - Final y RSP para alumno\Alumno\Controles\obj\Debug\Controles.dll
+D:\20190711 - Final y RSP para alumno\Alumno\Controles\obj\Debug\Controles.pdb
+C:\Users\mgmastronardi\Desktop\Mariano.Garcia.Mastronardi.2D\Alumno\Controles\bin\Debug\Controles.dll
+C:\Users\mgmastronardi\Desktop\Mariano.Garcia.Mastronardi.2D\Alumno\Controles\bin\Debug\Controles.pdb
+C:\Users\mgmastronardi\Desktop\Mariano.Garcia.Mastronardi.2D\Alumno\Controles\bin\Debug\Entidades.dll
+C:\Users\mgmastronardi\Desktop\Mariano.Garcia.Mastronardi.2D\Alumno\Controles\bin\Debug\Entidades.pdb
+C:\Users\mgmastronardi\Desktop\Mariano.Garcia.Mastronardi.2D\Alumno\Controles\obj\Debug\Controles.csprojAssemblyReference.cache
+C:\Users\mgmastronardi\Desktop\Mariano.Garcia.Mastronardi.2D\Alumno\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\mgmastronardi\Desktop\Mariano.Garcia.Mastronardi.2D\Alumno\Controles\obj\Debug\Controles.Vuelo.resources
+C:\Users\mgmastronardi\Desktop\Mariano.Garcia.Mastronardi.2D\Alumno\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+C:\Users\mgmastronardi\Desktop\Mariano.Garcia.Mastronardi.2D\Alumno\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\mgmastronardi\Desktop\Mariano.Garcia.Mastronardi.2D\Alumno\Controles\obj\Debug\Controles.csproj.CopyComplete
+C:\Users\mgmastronardi\Desktop\Mariano.Garcia.Mastronardi.2D\Alumno\Controles\obj\Debug\Controles.dll
+C:\Users\mgmastronardi\Desktop\Mariano.Garcia.Mastronardi.2D\Alumno\Controles\obj\Debug\Controles.pdb
