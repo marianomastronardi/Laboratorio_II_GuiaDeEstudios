@@ -9,7 +9,7 @@ namespace Entidades
 {
     public static class MetodoExtension
     {
-        public static void AgregarVuelo(this Aeropuerto<IAvion> a)
+        public static void AgregarVuelo<T>(this Aeropuerto<T> a) where T : IAvion
         {
             StreamWriter writer = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\Aeropuerto.txt");
             writer.WriteLine(DateTime.Now + " " + ((Avion)(IAvion)a.Vuelos.LastOrDefault()).HorasDeVuelo);

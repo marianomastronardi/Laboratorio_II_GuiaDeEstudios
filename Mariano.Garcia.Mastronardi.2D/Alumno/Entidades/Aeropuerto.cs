@@ -40,6 +40,7 @@ namespace Entidades
         public static int operator +(Aeropuerto<T> a, T vuelo)
         {
             a.vuelos.Add(vuelo);
+            MetodoExtension.AgregarVuelo<T>(a);
             return a.vuelos.Count * 50;
         }
 
