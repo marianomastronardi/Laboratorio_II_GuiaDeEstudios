@@ -46,6 +46,7 @@
     <Compile Include="Avion.cs" />
     <Compile Include="ErrorArchivoException.cs" />
     <Compile Include="IAvion.cs" />
+    <Compile Include="MetodoExtension.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

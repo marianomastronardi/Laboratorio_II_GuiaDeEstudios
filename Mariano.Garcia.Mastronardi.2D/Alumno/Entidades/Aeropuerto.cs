@@ -10,6 +10,8 @@ namespace Entidades
     {
         private List<T> vuelos;
 
+        public List<T> Vuelos { get => this.vuelos; }
+
         public Aeropuerto()
         {
             this.vuelos = new List<T>();
@@ -23,7 +25,7 @@ namespace Entidades
             }
         }
 
-        public static explicit operator String(Aeropuerto<T> a)
+        public static explicit operator string(Aeropuerto<T> a)
         {
             int cantVuelos = 0;
 
